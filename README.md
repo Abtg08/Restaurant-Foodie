@@ -1,13 +1,5 @@
 <div align="center">
-  
-  ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/foodie)
-  ![GitHub stars](https://img.shields.io/github/stars/codewithsadee/foodie?style=social)
-  ![GitHub forks](https://img.shields.io/github/forks/codewithsadee/foodie?style=social)
-
-  <br />
-  <br />
-
-  <h2 align="center">Foodie - Fast food website</h2>
+<h2 align="center">Foodie - Fast food website</h2>
 
 This is a landing page for a restaurant website, designed to provide an attractive and user-friendly interface for visitors to learn about the restaurant and its offerings. The page includes sections for displaying photos of the restaurant and its dishes, as well as information on the menu, location, and hours of operation.
 
